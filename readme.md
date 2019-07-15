@@ -8,3 +8,4 @@
 - create a shadow, or multiple shadow (separated by ,)
 - creating text-shadow
 - working with pseudo classes
+- working with pseudo elements /_stopped_/

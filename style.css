@@ -13,3 +13,11 @@ div {
 h1 {
   text-shadow: 10px 10px 5px rgb(88, 86, 86);
 }
+
+#parent p:first-child {
+  color: green;
+}
+
+#parent p:last-child {
+  color: red;
+}
